@@ -1,0 +1,168 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/bin/node', '/usr/local/bin/npm', 'install' ]
+2 info using npm@2.7.4
+3 info using node@v0.12.2
+4 verbose install where, deps [ '/Users/robertzheng/Desktop/BaseBranch',
+4 verbose install   [ 'bcrypt-nodejs',
+4 verbose install     'body-parser',
+4 verbose install     'bootstrap',
+4 verbose install     'browserify',
+4 verbose install     'chai',
+4 verbose install     'connect-flash',
+4 verbose install     'cookie-parser',
+4 verbose install     'cookies-js',
+4 verbose install     'cors',
+4 verbose install     'cuid',
+4 verbose install     'd3',
+4 verbose install     'express',
+4 verbose install     'express-session',
+4 verbose install     'gulp',
+4 verbose install     'gulp-html-replace',
+4 verbose install     'gulp-less',
+4 verbose install     'gulp-react',
+4 verbose install     'gulp-server-livereload',
+4 verbose install     'gulp-streamify',
+4 verbose install     'gulp-uglify',
+4 verbose install     'lodash',
+4 verbose install     'material-design-icons',
+4 verbose install     'material-ui',
+4 verbose install     'mocha',
+4 verbose install     'morgan',
+4 verbose install     'mysql',
+4 verbose install     'object-assign',
+4 verbose install     'passport',
+4 verbose install     'passport-github',
+4 verbose install     'passport-local',
+4 verbose install     'react',
+4 verbose install     'react-avatar-editor',
+4 verbose install     'react-modal',
+4 verbose install     'react-progressbar',
+4 verbose install     'react-tap-event-plugin',
+4 verbose install     'reactable',
+4 verbose install     'reactify',
+4 verbose install     'reflux',
+4 verbose install     'sequelize',
+4 verbose install     'supertest',
+4 verbose install     'vinyl-source-stream',
+4 verbose install     'watchify' ] ]
+5 verbose install where, peers [ '/Users/robertzheng/Desktop/BaseBranch', [] ]
+6 info preinstall BaseBranch@1.0.0
+7 verbose already installed skipping cors@^2.5.3 /Users/robertzheng/Desktop/BaseBranch
+8 verbose already installed skipping cuid@^1.2.4 /Users/robertzheng/Desktop/BaseBranch
+9 verbose already installed skipping d3@^3.5.5 /Users/robertzheng/Desktop/BaseBranch
+10 verbose already installed skipping express@^4.12.3 /Users/robertzheng/Desktop/BaseBranch
+11 verbose already installed skipping express-session@^1.11.1 /Users/robertzheng/Desktop/BaseBranch
+12 verbose already installed skipping gulp@^3.8.11 /Users/robertzheng/Desktop/BaseBranch
+13 verbose already installed skipping gulp-html-replace@^1.4.4 /Users/robertzheng/Desktop/BaseBranch
+14 verbose already installed skipping gulp-less@^3.0.2 /Users/robertzheng/Desktop/BaseBranch
+15 verbose already installed skipping gulp-react@^3.0.1 /Users/robertzheng/Desktop/BaseBranch
+16 verbose already installed skipping gulp-server-livereload@^1.2.1 /Users/robertzheng/Desktop/BaseBranch
+17 verbose already installed skipping gulp-streamify@0.0.5 /Users/robertzheng/Desktop/BaseBranch
+18 verbose already installed skipping gulp-uglify@~1.1.0 /Users/robertzheng/Desktop/BaseBranch
+19 verbose already installed skipping lodash@^3.6.0 /Users/robertzheng/Desktop/BaseBranch
+20 verbose already installed skipping material-design-icons@^1.0.1 /Users/robertzheng/Desktop/BaseBranch
+21 verbose already installed skipping material-ui@^0.7.3 /Users/robertzheng/Desktop/BaseBranch
+22 verbose already installed skipping mocha@^2.2.1 /Users/robertzheng/Desktop/BaseBranch
+23 verbose already installed skipping morgan@^1.5.2 /Users/robertzheng/Desktop/BaseBranch
+24 verbose already installed skipping mysql@^2.6.1 /Users/robertzheng/Desktop/BaseBranch
+25 verbose already installed skipping object-assign@^2.0.0 /Users/robertzheng/Desktop/BaseBranch
+26 verbose already installed skipping passport@^0.2.1 /Users/robertzheng/Desktop/BaseBranch
+27 verbose already installed skipping passport-github@^0.1.5 /Users/robertzheng/Desktop/BaseBranch
+28 verbose already installed skipping passport-local@^1.0.0 /Users/robertzheng/Desktop/BaseBranch
+29 verbose already installed skipping react@^0.12.2 /Users/robertzheng/Desktop/BaseBranch
+30 verbose already installed skipping react-avatar-editor@^0.4.6 /Users/robertzheng/Desktop/BaseBranch
+31 verbose already installed skipping react-modal@^0.1.1 /Users/robertzheng/Desktop/BaseBranch
+32 verbose already installed skipping react-progressbar@^1.0.0 /Users/robertzheng/Desktop/BaseBranch
+33 verbose already installed skipping react-tap-event-plugin@^0.1.6 /Users/robertzheng/Desktop/BaseBranch
+34 verbose already installed skipping reactable@^0.10.1 /Users/robertzheng/Desktop/BaseBranch
+35 verbose already installed skipping reactify@^1.1.0 /Users/robertzheng/Desktop/BaseBranch
+36 verbose already installed skipping reflux@^0.2.7 /Users/robertzheng/Desktop/BaseBranch
+37 verbose already installed skipping sequelize@^2.0.5 /Users/robertzheng/Desktop/BaseBranch
+38 verbose already installed skipping supertest@^0.15.0 /Users/robertzheng/Desktop/BaseBranch
+39 verbose already installed skipping vinyl-source-stream@^1.1.0 /Users/robertzheng/Desktop/BaseBranch
+40 verbose already installed skipping watchify@^3.1.0 /Users/robertzheng/Desktop/BaseBranch
+41 verbose already installed skipping bcrypt-nodejs@0.0.3 /Users/robertzheng/Desktop/BaseBranch
+42 verbose already installed skipping body-parser@^1.12.2 /Users/robertzheng/Desktop/BaseBranch
+43 verbose already installed skipping bootstrap@^3.3.4 /Users/robertzheng/Desktop/BaseBranch
+44 verbose already installed skipping browserify@^9.0.7 /Users/robertzheng/Desktop/BaseBranch
+45 verbose already installed skipping chai@^2.2.0 /Users/robertzheng/Desktop/BaseBranch
+46 verbose already installed skipping connect-flash@^0.1.1 /Users/robertzheng/Desktop/BaseBranch
+47 verbose already installed skipping cookie-parser@^1.3.4 /Users/robertzheng/Desktop/BaseBranch
+48 verbose already installed skipping cookies-js@^1.2.1 /Users/robertzheng/Desktop/BaseBranch
+49 silly install resolved []
+50 info build /Users/robertzheng/Desktop/BaseBranch
+51 verbose linkStuff [ false, false, false, '/Users/robertzheng/Desktop' ]
+52 info linkStuff BaseBranch@1.0.0
+53 verbose linkBins BaseBranch@1.0.0
+54 verbose linkMans BaseBranch@1.0.0
+55 verbose rebuildBundles BaseBranch@1.0.0
+56 verbose rebuildBundles [ '.bin',
+56 verbose rebuildBundles   'bcrypt-nodejs',
+56 verbose rebuildBundles   'body-parser',
+56 verbose rebuildBundles   'bootstrap',
+56 verbose rebuildBundles   'browserify',
+56 verbose rebuildBundles   'chai',
+56 verbose rebuildBundles   'connect-flash',
+56 verbose rebuildBundles   'cookie-parser',
+56 verbose rebuildBundles   'cookies-js',
+56 verbose rebuildBundles   'cors',
+56 verbose rebuildBundles   'cuid',
+56 verbose rebuildBundles   'd3',
+56 verbose rebuildBundles   'express',
+56 verbose rebuildBundles   'express-session',
+56 verbose rebuildBundles   'gulp',
+56 verbose rebuildBundles   'gulp-html-replace',
+56 verbose rebuildBundles   'gulp-less',
+56 verbose rebuildBundles   'gulp-react',
+56 verbose rebuildBundles   'gulp-server-livereload',
+56 verbose rebuildBundles   'gulp-streamify',
+56 verbose rebuildBundles   'gulp-uglify',
+56 verbose rebuildBundles   'lodash',
+56 verbose rebuildBundles   'material-design-icons',
+56 verbose rebuildBundles   'material-ui',
+56 verbose rebuildBundles   'mocha',
+56 verbose rebuildBundles   'morgan',
+56 verbose rebuildBundles   'mysql',
+56 verbose rebuildBundles   'object-assign',
+56 verbose rebuildBundles   'passport',
+56 verbose rebuildBundles   'passport-github',
+56 verbose rebuildBundles   'passport-local',
+56 verbose rebuildBundles   'react',
+56 verbose rebuildBundles   'react-avatar-editor',
+56 verbose rebuildBundles   'react-modal',
+56 verbose rebuildBundles   'react-progressbar',
+56 verbose rebuildBundles   'react-tap-event-plugin',
+56 verbose rebuildBundles   'reactable',
+56 verbose rebuildBundles   'reactify',
+56 verbose rebuildBundles   'reflux',
+56 verbose rebuildBundles   'sequelize',
+56 verbose rebuildBundles   'supertest',
+56 verbose rebuildBundles   'vinyl-source-stream',
+56 verbose rebuildBundles   'watchify' ]
+57 info install BaseBranch@1.0.0
+58 info postinstall BaseBranch@1.0.0
+59 info prepublish BaseBranch@1.0.0
+60 verbose stack Error: The package react does not satisfy its siblings' peerDependencies requirements!
+60 verbose stack     at /usr/local/lib/node_modules/npm/lib/install.js:125:32
+60 verbose stack     at /usr/local/lib/node_modules/npm/lib/install.js:264:7
+60 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/read-installed/read-installed.js:138:5
+60 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/read-installed/read-installed.js:251:14
+60 verbose stack     at cb (/usr/local/lib/node_modules/npm/node_modules/slide/lib/async-map.js:47:24)
+60 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/read-installed/read-installed.js:251:14
+60 verbose stack     at cb (/usr/local/lib/node_modules/npm/node_modules/slide/lib/async-map.js:47:24)
+60 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/read-installed/read-installed.js:251:14
+60 verbose stack     at cb (/usr/local/lib/node_modules/npm/node_modules/slide/lib/async-map.js:47:24)
+60 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/read-installed/read-installed.js:251:14
+61 verbose cwd /Users/robertzheng/Desktop/BaseBranch
+62 error Darwin 14.3.0
+63 error argv "/usr/local/bin/node" "/usr/local/bin/npm" "install"
+64 error node v0.12.2
+65 error npm  v2.7.4
+66 error code EPEERINVALID
+67 error peerinvalid The package react does not satisfy its siblings' peerDependencies requirements!
+67 error peerinvalid Peer material-ui@0.7.4 wants react@>=0.13
+67 error peerinvalid Peer react-avatar-editor@0.4.6 wants react@0.12.x
+67 error peerinvalid Peer react-modal@0.1.1 wants react@>=0.12.0
+67 error peerinvalid Peer react-tap-event-plugin@0.1.6 wants react@~0.13.x || ~0.12.x
+67 error peerinvalid Peer reactable@0.10.1 wants react@*
+68 verbose exit [ 1, true ]
