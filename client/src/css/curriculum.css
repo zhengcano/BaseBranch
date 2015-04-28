@@ -218,6 +218,7 @@
 
 .vote-up, .vote-down {
 	margin-left: 10px;
+	font-size: 1.4em;
 }
 
 .indigo .mui-drop-down-menu .mui-menu-control .mui-menu-label {
